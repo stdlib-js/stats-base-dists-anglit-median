@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`16a22d8`](https://github.com/stdlib-js/stdlib/commit/16a22d80d97c120c8ee44e7e2801133e47d6f14f) - **refactor:** use `constants/float64/nan` in `stats/base/dists/anglit/median` [(#16879)](https://github.com/stdlib-js/stdlib/pull/16879) _(by Debojit Dey)_
 -   [`2bef58b`](https://github.com/stdlib-js/stdlib/commit/2bef58bc7b32b5e7c87318940a21b0f6228a2f07) - **docs:** fix broken Markdown link [(#14865)](https://github.com/stdlib-js/stdlib/pull/14865) _(by Paradox)_
 -   [`8df3c50`](https://github.com/stdlib-js/stdlib/commit/8df3c505604130c2c0cdf20814d2126c9ef58e69) - **docs:** fix parameter descriptions and update spacing [(#13671)](https://github.com/stdlib-js/stdlib/pull/13671) _(by Philipp Burckhardt)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
@@ -54,9 +55,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Debojit Dey
 -   Neeraj Pathak
 -   Om-A-osc
 -   Paradox
